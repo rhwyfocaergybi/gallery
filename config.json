@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Rowing Gallery",
+  "title": "Galeri Clwb Rhwyfo Caergybi/Holyhead Rowing Club Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
   "theme": "mosaic",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "Cedwir bob haw/Copyright Clwb Rhwyfo Caergybi/Holyhead Rowing Club- 2026",
   "usage-stats": false
 }
